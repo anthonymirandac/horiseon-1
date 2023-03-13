@@ -30,3 +30,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Deployed Website
 
+https://anthonymirandac.github.io/horiseon-1/
